@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bUIljHXGHV+waPoqsK0yXmUdmMHLd7gBWWqWim1vVRI=",
+  "Source": "ContactManager.API",
+  "BasePath": "_content/ContactManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
