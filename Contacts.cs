@@ -27,7 +27,7 @@ namespace ContactManager.API
         public string DisplayName { get; set; }
         public DateTime BirthDate { get; set; }
 
-
+        [Required]
         [EmailAddress]
         public string Email { get; set; }
         
